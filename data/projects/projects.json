@@ -2,7 +2,7 @@
     "Projects": [
       {
         "Name": "Rawg is a game store",
-        "Image":"./images/rawg.png",
+        "image":"./data/images/rawg.png",
         "Stack": "React, SCSS, HTML",
         "Year": "2023",
         "Platform": "Web",
