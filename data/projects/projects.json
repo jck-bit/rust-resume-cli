@@ -1,0 +1,27 @@
+{
+    "Projects": [
+      {
+        "Name": "Rawg is a game store",
+        "Image":"./images/rawg.png",
+        "Stack": "React, SCSS, HTML",
+        "Year": "2023",
+        "Platform": "Web",
+        "Description": [
+          "Used the Rawg ApI to fetch games and display thwm",
+          "Used Framer motion in the Frontend to create animations",
+          "Used the "
+        ]
+      },
+     {
+       "Name": "Typescript Compiler",
+       "Stack": "Typescript, Deno",
+       "Year": "2024",
+       "Platform": "",
+       "Description": [
+         "Used the Rawg ApI to fetch games and display thwm",
+         "Used Framer motion in the Frontend to create animations",
+         "Used the"
+       ]
+     }
+    ]
+}

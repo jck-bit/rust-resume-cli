@@ -1,0 +1,15 @@
+{
+    "Experiences": [
+      {
+        "Position": "Fullstack Developer",
+        "Company": "Freelance",
+        "Location": "Remote",
+        "Duration": "Jan 2023 - Present",
+        "Description": [
+          "Aided in locating flaws and fixing already-in-use services which improved efficiency by 30%",
+          "Work on multiple applications such as lending platform and referral system which helped in the increase of customers.",
+          "Worked on handling on-chain transaction verification which helped in securing the platforms."
+        ]
+      }
+    ]
+  }
