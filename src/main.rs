@@ -9,7 +9,7 @@ use inquire::Select;
 use experience::show_experience;
 use skills::show_skills;
 use projects::show_projects;
-use contacts::show_socials;
+use contacts::show_socials;  
 // mod music;
 
 // use music::music_player;
